@@ -6,6 +6,7 @@ Personal documentation of my homelab build and cybersecurity learning.
 - Networking
 - Servers
 - Security fundamentals
+- Most of all, knowledge! Progress!!
 
 ## Status
 Active
