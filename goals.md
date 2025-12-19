@@ -2,6 +2,7 @@
 
 ## Objective
 Build a reliable, segmented home server environment for learning systems, networking, and security.
+Hardware is all set, just need to focus on spinning it up.
 
 ---
 
