@@ -19,8 +19,10 @@ Active
     - Primary router
     - Wan access
   - 5-port 2.5 GbE swich (TP-Link)
-  - Beelink s12 Mini (installed, unpowered)
-    - Proxmox + find out
+  - Beelink s12 Mini 
+    - Proxmox
+      - Home assistant OS (VM)
+      - Crafty Controller (LXC)
   - ZimaBoard 2 (installed, unpowered)
     - Storage/ services
   - 3D-printed patch panel
